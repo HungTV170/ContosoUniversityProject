@@ -1,0 +1,41 @@
+{
+  "Users": [
+    {
+      "DOB": "13/12/2024 12:00:00 SA",
+      "Id": "62c80df8-60c0-4ccb-a3df-0d4b3e1ac9ad",
+      "UserName": "hung311223@gmail.com",
+      "NormalizedUserName": "HUNG311223@GMAIL.COM",
+      "Email": "hung311223@gmail.com",
+      "NormalizedEmail": "HUNG311223@GMAIL.COM",
+      "EmailConfirmed": false,
+      "PasswordHash": "AQAAAAIAAYagAAAAEGjF0ktwF8rZyZnEgMMidUc1pXy+nr8aYf9vRZzmysRubM+7gOgVt1psw3kfvPFXeg==",
+      "SecurityStamp": "dc198c64-a681-4b75-b4d5-89fd5867936d",
+      "ConcurrencyStamp": "6d38194e-ce19-4000-85f8-00669046eb2b",
+      "PhoneNumber": null,
+      "PhoneNumberConfirmed": false,
+      "TwoFactorEnabled": false,
+      "LockoutEnd": null,
+      "LockoutEnabled": false,
+      "AccessFailedCount": 0
+    },
+    {
+      "DOB": "13/12/2024 12:00:00 SA",
+      "Id": "69d479e5-abf9-46db-bad7-b0bbc0b4c9a9",
+      "UserName": "hungtranvan170@gmail.com",
+      "NormalizedUserName": "HUNGTRANVAN170@GMAIL.COM",
+      "Email": "hungtranvan170@gmail.com",
+      "NormalizedEmail": "HUNGTRANVAN170@GMAIL.COM",
+      "EmailConfirmed": false,
+      "PasswordHash": "AQAAAAIAAYagAAAAEKvS7jgk3CUg21UrwCAm8X4yZz9n00A/lGdKk2FmdgJ4wbUFQoH6H1JKV9xYv8Zsaw==",
+      "SecurityStamp": "d0de5407-e6ce-4d91-b7ff-b568bc4dfd99",
+      "ConcurrencyStamp": "07c4cacc-6c68-4cb8-a17d-7ab8ac355dee",
+      "PhoneNumber": null,
+      "PhoneNumberConfirmed": false,
+      "TwoFactorEnabled": false,
+      "LockoutEnd": null,
+      "LockoutEnabled": false,
+      "AccessFailedCount": 0
+    }
+  ],
+  "Roles": []
+}

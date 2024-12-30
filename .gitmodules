@@ -1,0 +1,3 @@
+[submodule "ContosoUniversity"]
+	path = ContosoUniversity
+	url = https://github.com/HungTV170/ContosoUniversity.git

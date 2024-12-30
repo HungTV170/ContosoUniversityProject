@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "ContosoUniversity"
+		},
+		{
+			"path": "MyWeb.Tests"
+		}
+	],
+	"settings": {},
+}

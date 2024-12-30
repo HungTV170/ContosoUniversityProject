@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyProject\\MyWeb.Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C61EEF5A-6705-43D2-9EBA-FB56D0E5AA1C}|MyWeb.Tests.csproj|d:\\myproject\\myweb.tests\\departmentscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61EEF5A-6705-43D2-9EBA-FB56D0E5AA1C}|MyWeb.Tests.csproj|solutionrelative:departmentscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentsControllerTests.cs",
+              "DocumentMoniker": "D:\\MyProject\\MyWeb.Tests\\DepartmentsControllerTests.cs",
+              "RelativeDocumentMoniker": "DepartmentsControllerTests.cs",
+              "ToolTip": "D:\\MyProject\\MyWeb.Tests\\DepartmentsControllerTests.cs",
+              "RelativeToolTip": "DepartmentsControllerTests.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T15:01:18.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
